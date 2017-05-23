@@ -1,0 +1,40 @@
+23 C - Do you want a date?
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+3
+0
+6 2
+4 7
+
+2 3
+
+1
+1
+8 3
+4 3 1
+
+2 9
+
+1
+2
+9 4
+1 2 3 4
+2 23
+1
+20 src/com/company/code
+8 -Xmx256M
+4 Main
+22 com.company.code.TaskC
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2017.05.23
+30 Codeforces Round #415 (Div. 2)
+1
+30 com.company.FastIO.InputReader
+19 java.io.PrintWriter
+0
+0
