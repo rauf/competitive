@@ -2,6 +2,8 @@ import java.io.OutputStream;
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.PrintWriter;
+import java.util.Arrays;
+import java.util.Random;
 import java.util.InputMismatchException;
 import java.io.IOException;
 import java.io.InputStream;
@@ -29,23 +31,31 @@ public class Main {
         public void solve(int testNumber, InputReader in, PrintWriter out) {
 
             final int n = in.nextInt();
-
-            int[] arr = in.nextIntArray(n);
+            int[] a = in.nextIntArray(n);
             long res = 0;
 
-            for (int i = 0; i < n - 1; i++) {
-                int max = arr[i];
-                int min = arr[i];
-                long count = 1;
-                for (int j = i + 1; j < n; j++) {
-                    max = Math.max(arr[j], max);
-                    min = Math.min(arr[j], min);
-                    res += count * (max - min);
-                    res %= MOD;
-                    count *= 2;
-                }
+            Random r = new Random();
+            for (int i = 0; i < 100000; i++) {
+                int x = r.nextInt(n), y = r.nextInt(n);
+                int temp = a[x];
+                a[x] = a[y];
+                a[y] = temp;
             }
 
+            Arrays.sort(a);
+
+            long[] pow2 = new long[n];
+            pow2[0] = 1;
+
+            for (int i = 1; i < n; i++) {
+                pow2[i] = (pow2[i - 1] << 1) % MOD;
+            }
+
+            for (int i = 0; i < n; i++) {
+                long left = pow2[i];
+                long right = pow2[n - i - 1];
+                res = (res + ((left - right) * a[i]) % MOD) % MOD;
+            }
             out.println(res);
         }
 
