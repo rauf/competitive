@@ -131,6 +131,26 @@ public class InputReader {
         return array;
     }
 
+    public long[] nextLongArray(int size) {
+        long[] array = new long[size];
+        for (int i = 0; i < size; i++)
+            array[i] = nextLong();
+        return array;
+    }
+
+    public long[][] nextLongMatrix(int row, int col) {
+        long[][] array = new long[row][col];
+        for (int i = 0; i < row; ++i)
+            for (int j = 0; j < col; ++j)
+                array[i][j] = nextLong();
+        return array;
+    }
+
+    public long[][] nextLongMatrix(int size) {
+        return nextLongMatrix(size, size);
+    }
+
+
     public int[][] nextIntMatrix(int row, int col) {
         int[][] array = new int[row][col];
         for (int i = 0; i < row; ++i)

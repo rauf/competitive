@@ -2,8 +2,6 @@ import java.io.OutputStream;
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.PrintWriter;
-import java.util.Arrays;
-import java.util.Random;
 import java.util.InputMismatchException;
 import java.io.IOException;
 import java.io.InputStream;
@@ -20,43 +18,44 @@ public class Main {
         OutputStream outputStream = System.out;
         InputReader in = new InputReader(inputStream);
         PrintWriter out = new PrintWriter(outputStream);
-        TaskC solver = new TaskC();
+        TaskD solver = new TaskD();
         solver.solve(1, in, out);
         out.close();
     }
 
-    static class TaskC {
-        private long MOD = (long) (1e9 + 7);
-
+    static class TaskD {
         public void solve(int testNumber, InputReader in, PrintWriter out) {
+            int n = in.nextInt();
+            int k = in.nextInt();
 
-            final int n = in.nextInt();
-            int[] a = in.nextIntArray(n);
-            long res = 0;
+            int fir = find(1, n, n, in, out);
 
-            Random r = new Random();
-            for (int i = 0; i < 100000; i++) {
-                int x = r.nextInt(n), y = r.nextInt(n);
-                int temp = a[x];
-                a[x] = a[y];
-                a[y] = temp;
+            int sec = find(1, fir - 1, n, in, out);
+
+            if (!check(sec, fir, n, in, out))
+                sec = find(fir + 1, n, n, in, out);
+
+            out.println("2 " + fir + " " + sec);
+            out.flush();
+        }
+
+        private int find(int low, int high, int n, InputReader in, PrintWriter out) {
+            if (low > high) return -1;
+
+            while (low < high) {
+                final int mid1 = low + (high - low) / 2;
+                if (check(mid1, mid1 + 1, n, in, out)) {
+                    high = mid1;
+                } else low = mid1 + 1;
             }
+            return low;
+        }
 
-            Arrays.sort(a);
-
-            long[] pow2 = new long[n];
-            pow2[0] = 1;
-
-            for (int i = 1; i < n; i++) {
-                pow2[i] = (pow2[i - 1] << 1) % MOD;
-            }
-
-            for (int i = 0; i < n; i++) {
-                long left = pow2[i];
-                long right = pow2[n - i - 1];
-                res = (res + ((left - right) * a[i]) % MOD) % MOD;
-            }
-            out.println(res);
+        private boolean check(int x, int y, int n, InputReader in, PrintWriter out) {
+            if (x < 0 || y > n) return false;
+            out.println("1 " + x + " " + y);
+            out.flush();
+            return in.next().equals("TAK");
         }
 
     }
@@ -105,17 +104,25 @@ public class Main {
             return res * sgn;
         }
 
+        public String nextString() {
+            int c = read();
+            while (isSpaceChar(c)) c = read();
+            StringBuilder res = new StringBuilder();
+            do {
+                res.appendCodePoint(c);
+                c = read();
+            } while (!isSpaceChar(c));
+            return res.toString();
+        }
+
         public boolean isSpaceChar(int c) {
             if (filter != null)
                 return filter.isSpaceChar(c);
             return c == ' ' || c == '\n' || c == '\r' || c == '\t' || c == -1;
         }
 
-        public int[] nextIntArray(int size) {
-            int[] array = new int[size];
-            for (int i = 0; i < size; i++)
-                array[i] = nextInt();
-            return array;
+        public String next() {
+            return nextString();
         }
 
         public interface SpaceCharFilter {
