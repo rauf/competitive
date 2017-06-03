@@ -2,22 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bc4000f3-c6c0-43b0-9952-4111c166ec6d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../comp/archive/2017.06/2017.06.02 - Codeforces Round #415 (Div. 2)/D - Glad to see you!.task" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../comp/archive/2017.06/2017.06.02 - Codeforces Round #415 (Div. 2)/TaskD.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../comp/archive/2017.06/2017.06.03 - Codeforces Round #417 (Div. 2)/C - Sagheer and Nubian Market.task" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../comp/archive/2017.06/2017.06.03 - Codeforces Round #417 (Div. 2)/TaskC.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../comp/out/production/comp/com/company/code/C - Do you want a date-.task" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../comp/out/production/comp/com/company/code/TaskC.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../comp/src/archive/2017.05/2017.05.23 - Codeforces Round #415 (Div. 2)/C - Do you want a date-.task" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../comp/src/archive/2017.05/2017.05.23 - Codeforces Round #415 (Div. 2)/TaskC.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../comp/src/archive/2017.05/2017.05.26 - Codeforces Round #356 (Div. 2)/B - Bear and Finding Criminals.task" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../comp/src/archive/2017.06/2017.06.02 - Codeforces Round #356 (Div. 2)/TaskB.java" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../comp/out/production/comp/com/company/FastIO/InputReader.class" afterPath="$PROJECT_DIR$/../comp/out/production/comp/com/company/FastIO/InputReader.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../comp/archive/2017.06/2017.06.02 - Codeforces Round #356 (Div. 2)/TaskB.task" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../comp/archive/2017.06/2017.06.02 - Codeforces Round #417 (Div. 2)/A - Sagheer and Crossroads.task" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../comp/archive/2017.06/2017.06.02 - Codeforces Round #417 (Div. 2)/TaskA.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../comp/src/com/company/code/Sagheer B.task" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../comp/src/com/company/code/TaskB.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../comp/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../comp/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../comp/CHelperReport.txt" afterPath="$PROJECT_DIR$/../comp/CHelperReport.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../comp/chelper.properties" afterPath="$PROJECT_DIR$/../comp/chelper.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../comp/out/Main.java" afterPath="$PROJECT_DIR$/../comp/out/Main.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../comp/src/com/company/FastIO/InputReader.java" afterPath="$PROJECT_DIR$/../comp/src/com/company/FastIO/InputReader.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../comp/src/com/company/archive/2017.05/2017.05.23 - Codeforces Round #415 (Div. 2)/C - Do you want a date-.task" afterPath="$PROJECT_DIR$/../comp/archive/2017.05/2017.05.23 - Codeforces Round #415 (Div. 2)/C - Do you want a date-.task" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../comp/src/com/company/archive/2017.05/2017.05.23 - Codeforces Round #415 (Div. 2)/TaskC.java" afterPath="$PROJECT_DIR$/../comp/archive/2017.05/2017.05.23 - Codeforces Round #415 (Div. 2)/TaskC.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../comp/src/com/company/archive/2017.05/2017.05.26 - Codeforces Round #356 (Div. 2)/B - Bear and Finding Criminals.task" afterPath="$PROJECT_DIR$/../comp/archive/2017.05/2017.05.26 - Codeforces Round #356 (Div. 2)/B - Bear and Finding Criminals.task" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../comp/src/com/company/archive/2017.05/2017.05.26 - Codeforces Round #356 (Div. 2)/TaskB.java" afterPath="$PROJECT_DIR$/../comp/archive/2017.06/2017.06.02 - Codeforces Round #356 (Div. 2)/TaskB.java" />
     </list>
     <ignored path="$PROJECT_DIR$/../comp/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,21 +24,31 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="TaskB.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="TaskB.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../comp/src/com/company/code/TaskB.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="10" column="9" lean-forward="false" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+            <state relative-caret-position="425">
+              <caret line="26" column="9" lean-forward="true" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="InputReader.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="InputReader.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../comp/src/com/company/FastIO/InputReader.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1071">
               <caret line="67" column="21" lean-forward="true" selection-start-line="67" selection-start-column="21" selection-end-line="67" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TaskB.task" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../comp/archive/2017.06/2017.06.02 - Codeforces Round #356 (Div. 2)/TaskB.task">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -163,6 +167,10 @@
               <option name="myItemId" value="company" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FastIO" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -247,6 +255,10 @@
               <option name="myItemId" value="2017.06" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="2017.06.02 - Codeforces Round #415 (Div. 2)" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -281,6 +293,36 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="archive" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="2017.05" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="2017.05.26 - Codeforces Round #356 (Div. 2)" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="comp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="comp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="archive" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="2017.05" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="2017.05.23 - Codeforces Round #415 (Div. 2)" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -766,7 +808,7 @@
       <workItem from="1496391996263" duration="3338000" />
       <workItem from="1496395365655" duration="5947000" />
       <workItem from="1496415638181" duration="600000" />
-      <workItem from="1496432763912" duration="9859000" />
+      <workItem from="1496432763912" duration="10621000" />
     </task>
     <task id="LOCAL-00001" summary="prog">
       <created>1496227279814</created>
@@ -775,14 +817,22 @@
       <option name="project" value="LOCAL" />
       <updated>1496227279814</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="FastIO update, new programs">
+      <created>1496492694622</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1496492694622</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48634000" />
+    <option name="totallyTimeSpent" value="49396000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1932" height="1056" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -799,7 +849,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13514957" sideWeight="0.5" order="6" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13514957" sideWeight="0.5" order="6" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -823,7 +873,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="prog" />
-    <option name="LAST_COMMIT_MESSAGE" value="prog" />
+    <MESSAGE value="FastIO update, new programs" />
+    <option name="LAST_COMMIT_MESSAGE" value="FastIO update, new programs" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -925,33 +976,10 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../comp/src/archive/2017.06/2017.06.02 - Codeforces Round #356 (Div. 2)/TaskB.java" />
-    <entry file="file://$PROJECT_DIR$/../comp/archive/2017.06/2017.06.02 - Codeforces Round #356 (Div. 2)/TaskB.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../comp/archive/2017.06/2017.06.02 - Codeforces Round #356 (Div. 2)/TaskB.task">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../comp/src/com/company/code/D - Glad to see you!.task">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="3" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../comp/src/com/company/code/Sagheer B.task">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -988,18 +1016,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../comp/src/com/company/code/TaskB.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="10" column="9" lean-forward="false" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../comp/src/com/company/FastIO/InputReader.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1071">
           <caret line="67" column="21" lean-forward="true" selection-start-line="67" selection-start-column="21" selection-end-line="67" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../comp/archive/2017.06/2017.06.02 - Codeforces Round #356 (Div. 2)/TaskB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../comp/archive/2017.06/2017.06.02 - Codeforces Round #356 (Div. 2)/TaskB.task">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../comp/src/com/company/code/Sagheer B.task">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../comp/src/com/company/code/TaskB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="26" column="9" lean-forward="true" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
           <folding />
         </state>
       </provider>

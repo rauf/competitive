@@ -4,7 +4,7 @@ import com.company.FastIO.InputReader;
 import java.io.PrintWriter;
 
 public class TaskB {
-    public void solve(int testNumber, InputReader in, PrintWriter out) {
+    void solve(int testNumber, InputReader in, PrintWriter out) {
         final int n = in.nextInt();
         final int a = in.nextInt() - 1;
 
