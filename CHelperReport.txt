@@ -1,3 +1,2 @@
-46 src/com/company/code/D - Glad to see you!.task
-1
+62 src/com/company/code/A - Slightly Decreasing Permutations.task
 0

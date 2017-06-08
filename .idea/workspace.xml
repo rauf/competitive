@@ -2,16 +2,43 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bc4000f3-c6c0-43b0-9952-4111c166ec6d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../comp/archive/2017.06/2017.06.02 - Codeforces Round #356 (Div. 2)/TaskB.task" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../comp/archive/2017.06/2017.06.02 - Codeforces Round #417 (Div. 2)/A - Sagheer and Crossroads.task" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../comp/archive/2017.06/2017.06.02 - Codeforces Round #417 (Div. 2)/TaskA.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../comp/src/com/company/code/Sagheer B.task" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../comp/src/com/company/code/TaskB.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../comp/archive/2017.06/2017.06.04 - Codeforces Beta Round #246 (Div. 2 Only)/TaskA.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../comp/archive/2017.06/2017.06.04 - Codeforces Beta Round #84 (Div. 2 Only)/A - Nearly Lucky Number.task" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../comp/archive/2017.06/2017.06.04 - Codeforces Beta Round #84 (Div. 2 Only)/TaskA.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../comp/archive/2017.06/2017.06.04 - Codeforces Round #111 (Div. 2)/A - Twins.task" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../comp/archive/2017.06/2017.06.04 - Codeforces Round #111 (Div. 2)/TaskA.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../comp/archive/2017.06/2017.06.04 - Codeforces Round #196 (Div. 2)/A - Puzzles.task" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../comp/archive/2017.06/2017.06.04 - Codeforces Round #196 (Div. 2)/TaskA.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../comp/archive/2017.06/2017.06.04 - June Challenge 2017/A Good Set.task" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../comp/archive/2017.06/2017.06.04 - June Challenge 2017/AGoodSet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../comp/archive/2017.06/2017.06.05 - Codeforces Beta Round #82 (Div. 2)/C - Buns.task" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../comp/archive/2017.06/2017.06.05 - Codeforces Beta Round #82 (Div. 2)/TaskC.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../comp/archive/2017.06/2017.06.05 - Codeforces Beta Round #89 (Div. 2)/D - Caesar's Legions.task" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../comp/archive/2017.06/2017.06.05 - Codeforces Beta Round #89 (Div. 2)/TaskD.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../comp/archive/2017.06/2017.06.05 - Codeforces Round #186 (Div. 2)/B - Ilya and Queries.task" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../comp/archive/2017.06/2017.06.05 - Codeforces Round #186 (Div. 2)/TaskB.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../comp/archive/2017.06/2017.06.05 - Codeforces Round #191 (Div. 2)/B - Hungry Sequence.task" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../comp/archive/2017.06/2017.06.05 - Codeforces Round #191 (Div. 2)/TaskB.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../comp/archive/2017.06/2017.06.05 - June Challenge 2017/Xenny and Coin Rankings.task" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../comp/archive/2017.06/2017.06.05 - June Challenge 2017/XennyAndCoinRankings.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../comp/archive/2017.06/2017.06.06 - June Challenge 2017/Chef and the Feast.task" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../comp/archive/2017.06/2017.06.06 - June Challenge 2017/ChefAndTheFeast.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../comp/archive/2017.06/2017.06.06 - June Challenge 2017/Triplets.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../comp/archive/2017.06/2017.06.06 - June Challenge 2017/Triplets.task" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../comp/archive/2017.06/2017.06.08 - Codeforces Beta Round #85 (Div. 2 Only)/A - Petya and Strings.task" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../comp/archive/2017.06/2017.06.08 - Codeforces Beta Round #85 (Div. 2 Only)/TaskA.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../comp/archive/2017.06/2017.06.08 - Codeforces Round #175 (Div. 2)/A - Slightly Decreasing Permutations.task" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../comp/archive/2017.06/2017.06.08 - Codeforces Round #175 (Div. 2)/TaskA.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../comp/archive/2017.06/2017.06.08 - Codeforces Round #197 (Div. 2)/B - Xenia and Ringroad.task" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../comp/archive/2017.06/2017.06.08 - Codeforces Round #197 (Div. 2)/TaskB.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../comp/src/archive/2017.06/2017.06.02 - Codeforces Round #417 (Div. 2)/A - Sagheer and Crossroads.task" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../comp/src/com/company/code/TaskB.java" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../comp/out/production/comp/com/company/FastIO/InputReader.class" afterPath="$PROJECT_DIR$/../comp/out/production/comp/com/company/FastIO/InputReader.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../comp/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../comp/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../comp/src/com/company/archive/2017.05/2017.05.23 - Codeforces Round #415 (Div. 2)/C - Do you want a date-.task" afterPath="$PROJECT_DIR$/../comp/archive/2017.05/2017.05.23 - Codeforces Round #415 (Div. 2)/C - Do you want a date-.task" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../comp/src/com/company/archive/2017.05/2017.05.23 - Codeforces Round #415 (Div. 2)/TaskC.java" afterPath="$PROJECT_DIR$/../comp/archive/2017.05/2017.05.23 - Codeforces Round #415 (Div. 2)/TaskC.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../comp/src/com/company/archive/2017.05/2017.05.26 - Codeforces Round #356 (Div. 2)/B - Bear and Finding Criminals.task" afterPath="$PROJECT_DIR$/../comp/archive/2017.05/2017.05.26 - Codeforces Round #356 (Div. 2)/B - Bear and Finding Criminals.task" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../comp/src/com/company/archive/2017.05/2017.05.26 - Codeforces Round #356 (Div. 2)/TaskB.java" afterPath="$PROJECT_DIR$/../comp/archive/2017.06/2017.06.02 - Codeforces Round #356 (Div. 2)/TaskB.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../comp/CHelperReport.txt" afterPath="$PROJECT_DIR$/../comp/CHelperReport.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../comp/chelper.properties" afterPath="$PROJECT_DIR$/../comp/chelper.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../comp/out/Main.java" afterPath="$PROJECT_DIR$/../comp/out/Main.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../comp/src/com/company/FastIO/InputReader.java" afterPath="$PROJECT_DIR$/../comp/src/com/company/FastIO/InputReader.java" />
     </list>
     <ignored path="$PROJECT_DIR$/../comp/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,41 +51,21 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="TaskB.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../comp/src/com/company/code/TaskB.java">
+      <file leaf-file-name="ChefAndPrimeQueries.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../comp/src/com/company/code/ChefAndPrimeQueries.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="26" column="9" lean-forward="true" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
+            <state relative-caret-position="204">
+              <caret line="13" column="13" lean-forward="true" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="InputReader.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../comp/src/com/company/FastIO/InputReader.java">
+      <file leaf-file-name="PairwiseUnionOfSets.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../comp/src/com/company/code/PairwiseUnionOfSets.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1071">
-              <caret line="67" column="21" lean-forward="true" selection-start-line="67" selection-start-column="21" selection-end-line="67" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TaskB.task" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../comp/archive/2017.06/2017.06.02 - Codeforces Round #356 (Div. 2)/TaskB.task">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Sagheer B.task" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../comp/src/com/company/code/Sagheer B.task">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="272">
+              <caret line="19" column="34" lean-forward="false" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
               <folding />
             </state>
           </provider>
@@ -93,18 +100,25 @@
         <option value="$PROJECT_DIR$/../comp/Main.java" />
         <option value="$PROJECT_DIR$/../comp/src/com/company/code/LuckyYear.java" />
         <option value="$PROJECT_DIR$/../comp/src/com/company/code/Task.java" />
-        <option value="$PROJECT_DIR$/../comp/out/Main.java" />
         <option value="$PROJECT_DIR$/../comp/src/com/company/code/Amazon.java" />
-        <option value="$PROJECT_DIR$/../comp/src/com/company/code/TaskA.java" />
         <option value="$PROJECT_DIR$/../comp/src/com/company/archive/2017.05/2017.05.26 - Codeforces Round #356 (Div. 2)/TaskB.java" />
         <option value="$PROJECT_DIR$/../comp/src/com/company/archive/2017.06/2017.06.02 - Codeforces Round #356 (Div. 2)/TaskB.java" />
         <option value="$PROJECT_DIR$/../comp/src/com/company/code/TaskB1.java" />
         <option value="$PROJECT_DIR$/../comp/src/com/company/code/Task1.java" />
         <option value="$PROJECT_DIR$/../comp/TaskClass.template" />
-        <option value="$PROJECT_DIR$/../comp/src/com/company/code/TaskC.java" />
         <option value="$PROJECT_DIR$/../comp/src/com/company/FastIO/InputReader.java" />
+        <option value="$PROJECT_DIR$/../comp/src/com/company/code/GOODSET.java" />
+        <option value="$PROJECT_DIR$/../comp/src/com/company/code/AGoodSet.java" />
+        <option value="$PROJECT_DIR$/../comp/src/com/company/code/XennyAndCoinRankings.java" />
         <option value="$PROJECT_DIR$/../comp/src/com/company/code/TaskD.java" />
+        <option value="$PROJECT_DIR$/../comp/out/Main.java" />
+        <option value="$PROJECT_DIR$/../comp/src/com/company/code/ChefAndTheFeast.java" />
+        <option value="$PROJECT_DIR$/../comp/src/com/company/code/PairwiseUnionOfSets.java" />
+        <option value="$PROJECT_DIR$/../comp/src/com/company/code/Triplets.java" />
+        <option value="$PROJECT_DIR$/../comp/src/com/company/code/TaskC.java" />
         <option value="$PROJECT_DIR$/../comp/src/com/company/code/TaskB.java" />
+        <option value="$PROJECT_DIR$/../comp/src/com/company/code/ChefAndPrimeQueries.java" />
+        <option value="$PROJECT_DIR$/../comp/src/com/company/code/TaskA.java" />
       </list>
     </option>
   </component>
@@ -117,7 +131,7 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1932" />
+    <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -138,6 +152,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -204,133 +221,12 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="archive" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="2017.06" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="2017.06.03 - Codeforces Round #417 (Div. 2)" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="comp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="comp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="archive" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="2017.06" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="2017.06.02 - Codeforces Round #417 (Div. 2)" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="comp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="comp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="archive" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="2017.06" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="2017.06.02 - Codeforces Round #415 (Div. 2)" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="comp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="comp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="archive" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="2017.06" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="2017.06.02 - Codeforces Round #356 (Div. 2)" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="comp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="comp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="archive" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="2017.05" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="2017.05.26 - Codeforces Round #356 (Div. 2)" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="comp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="comp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="archive" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="2017.05" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="2017.05.23 - Codeforces Round #415 (Div. 2)" />
+              <option name="myItemId" value="out" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -364,7 +260,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Task.Sagheer B">
+  <component name="RunManager" selected="Task.Chef and Prime Queries">
     <configuration default="false" name="Main" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="Main" />
@@ -767,21 +663,31 @@
       <method />
     </configuration>
     <configuration default="false" name="Sagheer B" type="Task" factoryName="Task">
-      <taskConf>src/com/company/code/Sagheer B.task</taskConf>
+      <taskConf />
       <method />
     </configuration>
     <configuration default="false" name="B - Sagheer, the Hausmeister" type="Task" factoryName="Task">
       <taskConf />
       <method />
     </configuration>
-    <list size="7">
+    <configuration default="false" name="Pairwise union of sets" type="Task" factoryName="Task">
+      <taskConf>src/com/company/code/Pairwise union of sets.task</taskConf>
+      <method />
+    </configuration>
+    <configuration default="false" name="Chef and Prime Queries" type="Task" factoryName="Task">
+      <taskConf>src/com/company/code/Chef and Prime Queries.task</taskConf>
+      <method />
+    </configuration>
+    <list size="9">
       <item index="0" class="java.lang.String" itemvalue="Task.E - Find a car" />
       <item index="1" class="java.lang.String" itemvalue="Task.C - Fixing Typos" />
       <item index="2" class="java.lang.String" itemvalue="Task.Fixing Typos" />
       <item index="3" class="java.lang.String" itemvalue="Task.TaskB" />
       <item index="4" class="java.lang.String" itemvalue="Task.Sagheer B" />
       <item index="5" class="java.lang.String" itemvalue="Task.B - Sagheer, the Hausmeister" />
-      <item index="6" class="java.lang.String" itemvalue="Application.Main" />
+      <item index="6" class="java.lang.String" itemvalue="Task.Pairwise union of sets" />
+      <item index="7" class="java.lang.String" itemvalue="Task.Chef and Prime Queries" />
+      <item index="8" class="java.lang.String" itemvalue="Application.Main" />
     </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
@@ -808,7 +714,18 @@
       <workItem from="1496391996263" duration="3338000" />
       <workItem from="1496395365655" duration="5947000" />
       <workItem from="1496415638181" duration="600000" />
-      <workItem from="1496432763912" duration="10621000" />
+      <workItem from="1496432763912" duration="11383000" />
+      <workItem from="1496519343902" duration="1767000" />
+      <workItem from="1496528787565" duration="1255000" />
+      <workItem from="1496530098810" duration="3199000" />
+      <workItem from="1496567446630" duration="5364000" />
+      <workItem from="1496603503625" duration="2801000" />
+      <workItem from="1496607131494" duration="865000" />
+      <workItem from="1496651944548" duration="17378000" />
+      <workItem from="1496743986818" duration="22166000" />
+      <workItem from="1496832625637" duration="17783000" />
+      <workItem from="1496884649902" duration="310000" />
+      <workItem from="1496922220940" duration="952000" />
     </task>
     <task id="LOCAL-00001" summary="prog">
       <created>1496227279814</created>
@@ -824,45 +741,52 @@
       <option name="project" value="LOCAL" />
       <updated>1496492694622</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="FastIO update, new programs">
+      <created>1496496259169</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1496496259169</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49396000" />
+    <option name="totallyTimeSpent" value="123998000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1932" height="1056" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32664436" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26972282" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26421404" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998884" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25746268" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2707889" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13514957" sideWeight="0.5" order="6" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15085287" sideWeight="0.5" order="6" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4057971" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40914157" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998884" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995495" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -878,7 +802,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="10" />
+      <option name="time" value="24" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -887,36 +811,9 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../comp/src/com/company/archive/TaskA.java" />
-    <entry file="file://$PROJECT_DIR$/../comp/src/com/company/archive/TaskB.java" />
-    <entry file="file://$PROJECT_DIR$/../comp/src/com/company/archive/2017.05/2017.05.22 - Codeforces Round #415 (Div. 2)/TaskA.java" />
-    <entry file="file://$PROJECT_DIR$/../comp/src/com/company/archive/2017.05/2017.05.22 - Codeforces Round #415 (Div. 2)/A - Straight «A».task" />
-    <entry file="file://$PROJECT_DIR$/../comp/src/com/company/main/Practice.java" />
-    <entry file="file://$PROJECT_DIR$/../comp/src/com/company/archive/2017.05/2017.05.22 - Codeforces Round #415 (Div. 2)/Practice.task" />
-    <entry file="file://$PROJECT_DIR$/../comp/src/com/company/archive/2017.05/2017.05.22 - Codeforces Round #415 (Div. 2)/Practice.java" />
-    <entry file="file://$PROJECT_DIR$/../comp/src/com/company/main/Pract.task" />
-    <entry file="file://$PROJECT_DIR$/../comp/src/com/company/main/Pract.java" />
-    <entry file="file://$PROJECT_DIR$/../comp/out/production/comp/com/company/code/Pract.class" />
-    <entry file="file://$PROJECT_DIR$/../comp/src/com/company/code/Pract.task" />
-    <entry file="file://$PROJECT_DIR$/../comp/src/com/company/code/Pract.java" />
-    <entry file="file://$PROJECT_DIR$/../comp/src/com/company/archive/2017.05/2017.05.22 - unsorted/Pract.java" />
-    <entry file="file://$PROJECT_DIR$/../comp/out/production/comp/com/company/FastIO/InputReader.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1381">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../comp/Main.java" />
-    <entry file="file://$PROJECT_DIR$/../comp/src/com/company/code/LuckyYear.java" />
-    <entry file="file://$PROJECT_DIR$/../comp/src/com/company/archive/C - Do you want a date-.task" />
-    <entry file="file://$PROJECT_DIR$/../comp/src/com/company/code/Task.java" />
-    <entry file="file://$PROJECT_DIR$/../comp/src/com/company/code/C - Fixing Typos.task" />
-    <entry file="file://$PROJECT_DIR$/../comp/src/com/company/code/Fixing Typos.task" />
     <entry file="file://$PROJECT_DIR$/../comp/src/com/company/code/Amazon.java" />
     <entry file="file://$PROJECT_DIR$/../comp/src/com/company/code/C - Do you want a date-.task" />
     <entry file="file://$PROJECT_DIR$/../comp/src/archive/2017.05/2017.05.23 - Codeforces Round #415 (Div. 2)/TaskC.java" />
-    <entry file="file://$PROJECT_DIR$/../comp/src/com/company/code/TaskA.java" />
     <entry file="file://$PROJECT_DIR$/../comp/src/archive/2017.06/2017.06.02 - Codeforces Round #417 (Div. 2)/TaskA.java" />
     <entry file="file://$PROJECT_DIR$/../comp/src/archive/2017.06/2017.06.02 - Codeforces Round #417 (Div. 2)/A - Sagheer and Crossroads.task" />
     <entry file="file://$PROJECT_DIR$/../comp/src/com/company/archive/2017.05/2017.05.26 - Codeforces Round #356 (Div. 2)/TaskB.java" />
@@ -976,51 +873,11 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../comp/src/archive/2017.06/2017.06.02 - Codeforces Round #356 (Div. 2)/TaskB.java" />
-    <entry file="file://$PROJECT_DIR$/../comp/src/com/company/code/D - Glad to see you!.task">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="3" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../comp/out/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-281">
-          <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../comp/src/com/company/code/TaskC.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../comp/src/com/company/code/D - Glad to see you!.task" />
     <entry file="file://$PROJECT_DIR$/../comp/archive/2017.06/2017.06.03 - Codeforces Round #417 (Div. 2)/TaskC.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../comp/src/com/company/code/TaskD.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="246">
-          <caret line="18" column="20" lean-forward="true" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../comp/src/com/company/FastIO/InputReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1071">
-          <caret line="67" column="21" lean-forward="true" selection-start-line="67" selection-start-column="21" selection-end-line="67" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1028,7 +885,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1036,11 +892,78 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../comp/src/com/company/code/Sagheer B.task" />
+    <entry file="file://$PROJECT_DIR$/../comp/archive/2017.06/2017.06.04 - Codeforces Round #196 (Div. 2)/TaskA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="13" column="23" lean-forward="true" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../comp/src/com/company/code/A - Nearly Lucky Number.task" />
+    <entry file="file://$PROJECT_DIR$/../comp/archive/2017.06/2017.06.04 - Codeforces Beta Round #84 (Div. 2 Only)/A - Nearly Lucky Number.task" />
+    <entry file="file://$PROJECT_DIR$/../comp/archive/2017.06/2017.06.04 - Codeforces Beta Round #246 (Div. 2 Only)/TaskA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="11" column="37" lean-forward="true" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../comp/archive/2017.06/2017.06.04 - Codeforces Beta Round #84 (Div. 2 Only)/TaskA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../comp/src/com/company/code/GOODSET.task" />
+    <entry file="file://$PROJECT_DIR$/../comp/src/com/company/code/GOODSET.java" />
+    <entry file="file://$PROJECT_DIR$/../comp/src/com/company/code/AGoodSet.java" />
+    <entry file="jar://$APPLICATION_PLUGINS_DIR$/chelper/lib/chelper.jar!/net/egork/chelper/tester/NewTester.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="397">
+          <caret line="53" column="0" lean-forward="false" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../comp/src/com/company/code/B - Hungry Sequence.task" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/io/FileInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="137" column="0" lean-forward="false" selection-start-line="137" selection-start-column="0" selection-end-line="137" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../comp/src/com/company/code/XennyAndCoinRankings.java" />
+    <entry file="file://$PROJECT_DIR$/../comp/src/com/company/FastIO/InputReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../comp/src/com/company/code/Sagheer B.task">
+    <entry file="file://$PROJECT_DIR$/../comp/src/com/company/code/TaskD.java" />
+    <entry file="file://$PROJECT_DIR$/../comp/chelper.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/Comparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="149" column="8" lean-forward="false" selection-start-line="149" selection-start-column="8" selection-end-line="149" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../comp/src/com/company/code/ChefAndTheFeast.java" />
+    <entry file="file://$PROJECT_DIR$/../comp/src/com/company/code/Triplets.java" />
+    <entry file="file://$PROJECT_DIR$/../comp/src/com/company/code/Pairwise union of sets.task">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -1048,10 +971,43 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../comp/src/com/company/code/TaskB.java">
+    <entry file="file://$PROJECT_DIR$/../comp/src/com/company/code/Chef and Prime Queries.task">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="26" column="9" lean-forward="true" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../comp/out/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="22" column="20" lean-forward="true" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../comp/src/com/company/code/TaskC.java" />
+    <entry file="file://$PROJECT_DIR$/../comp/src/com/company/code/TaskB.java" />
+    <entry file="file://$PROJECT_DIR$/../comp/src/com/company/code/PairwiseUnionOfSets.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="19" column="34" lean-forward="false" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../comp/src/com/company/code/TaskA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="6" column="36" lean-forward="false" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../comp/src/com/company/code/ChefAndPrimeQueries.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="13" column="13" lean-forward="true" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
           <folding />
         </state>
       </provider>

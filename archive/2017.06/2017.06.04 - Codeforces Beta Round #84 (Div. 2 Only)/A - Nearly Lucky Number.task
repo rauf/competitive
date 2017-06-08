@@ -1,0 +1,39 @@
+23 A - Nearly Lucky Number
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+3
+0
+6 40047
+
+3 NO
+
+1
+1
+8 7747774
+
+4 YES
+
+1
+2
+20 1000000000000000000
+
+3 NO
+
+1
+20 src/com/company/code
+8 -Xmx256M
+4 Main
+22 com.company.code.TaskA
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2017.06.04
+39 Codeforces Beta Round #84 (Div. 2 Only)
+1
+30 com.company.FastIO.InputReader
+19 java.io.PrintWriter
+0
+0

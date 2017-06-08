@@ -1,0 +1,33 @@
+8 Triplets
+12 MULTI_NUMBER
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+1
+0
+159 2
+3 4 5
+1000000000 1000000000 1000000000
+1000000000 1000000000 1000000000 1000000000
+1000000000 1000000000 1000000000 1000000000 1000000000
+3 1 3
+3 2 1
+5
+6 5 4
+3 399
+1
+20 src/com/company/code
+7 -Xmx64M
+4 Main
+25 com.company.code.Triplets
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2017.06.06
+19 June Challenge 2017
+1
+30 com.company.FastIO.InputReader
+19 java.io.PrintWriter
+0
+0

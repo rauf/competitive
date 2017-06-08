@@ -1,0 +1,36 @@
+18 Chef and the Feast
+12 MULTI_NUMBER
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+1
+0
+55 4
+3
+-8 0 -2
+3
+1 2 3
+2
+-100 -50
+7
+-100 -20 0 10 10 10 10
+15 -10
+18
+-150
+180
+1
+20 src/com/company/code
+7 -Xmx64M
+4 Main
+32 com.company.code.ChefAndTheFeast
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2017.06.06
+19 June Challenge 2017
+1
+30 com.company.FastIO.InputReader
+19 java.io.PrintWriter
+0
+0

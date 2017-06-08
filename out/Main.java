@@ -18,44 +18,26 @@ public class Main {
         OutputStream outputStream = System.out;
         InputReader in = new InputReader(inputStream);
         PrintWriter out = new PrintWriter(outputStream);
-        TaskD solver = new TaskD();
+        TaskA solver = new TaskA();
         solver.solve(1, in, out);
         out.close();
     }
 
-    static class TaskD {
+    static class TaskA {
         public void solve(int testNumber, InputReader in, PrintWriter out) {
-            int n = in.nextInt();
-            int k = in.nextInt();
+            final int n = in.nextInt();
+            final int k = in.nextInt();
 
-            int fir = find(1, n, n, in, out);
+            StringBuilder sb = new StringBuilder();
 
-            int sec = find(1, fir - 1, n, in, out);
-
-            if (!check(sec, fir, n, in, out))
-                sec = find(fir + 1, n, n, in, out);
-
-            out.println("2 " + fir + " " + sec);
-            out.flush();
-        }
-
-        private int find(int low, int high, int n, InputReader in, PrintWriter out) {
-            if (low > high) return -1;
-
-            while (low < high) {
-                final int mid1 = low + (high - low) / 2;
-                if (check(mid1, mid1 + 1, n, in, out)) {
-                    high = mid1;
-                } else low = mid1 + 1;
+            for (int i = 0; i < k; i++) {
+                sb.append(n - i).append(' ');
             }
-            return low;
-        }
 
-        private boolean check(int x, int y, int n, InputReader in, PrintWriter out) {
-            if (x < 0 || y > n) return false;
-            out.println("1 " + x + " " + y);
-            out.flush();
-            return in.next().equals("TAK");
+            for (int i = 1; i <= (n - k); i++) {
+                sb.append(i).append(' ');
+            }
+            out.println(sb);
         }
 
     }
@@ -71,7 +53,7 @@ public class Main {
             this.stream = stream;
         }
 
-        public int read() {
+        private int read() {
             if (numChars == -1) throw new InputMismatchException();
             if (curChar >= numChars) {
                 curChar = 0;
@@ -104,25 +86,10 @@ public class Main {
             return res * sgn;
         }
 
-        public String nextString() {
-            int c = read();
-            while (isSpaceChar(c)) c = read();
-            StringBuilder res = new StringBuilder();
-            do {
-                res.appendCodePoint(c);
-                c = read();
-            } while (!isSpaceChar(c));
-            return res.toString();
-        }
-
         public boolean isSpaceChar(int c) {
             if (filter != null)
                 return filter.isSpaceChar(c);
             return c == ' ' || c == '\n' || c == '\r' || c == '\t' || c == -1;
-        }
-
-        public String next() {
-            return nextString();
         }
 
         public interface SpaceCharFilter {

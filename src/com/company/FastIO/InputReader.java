@@ -2,6 +2,8 @@ package com.company.FastIO;
 
 import java.io.IOException;
 import java.io.InputStream;
+import java.math.BigDecimal;
+import java.math.BigInteger;
 import java.util.InputMismatchException;
 
 public class InputReader {
@@ -15,7 +17,7 @@ public class InputReader {
         this.stream = stream;
     }
 
-    public int read() {
+    private int read() {
         if (numChars == -1) throw new InputMismatchException();
         if (curChar >= numChars) {
             curChar = 0;
@@ -57,6 +59,18 @@ public class InputReader {
             c = read();
         } while (!isSpaceChar(c));
         return res.toString();
+    }
+
+    public char nextChar() {
+        return next().charAt(0);
+    }
+
+    public BigDecimal nextBigDecimal() {
+        return new BigDecimal(next());
+    }
+
+    public BigInteger nextBigInteger() {
+        return new BigInteger(next());
     }
 
     public double nextDouble() {
