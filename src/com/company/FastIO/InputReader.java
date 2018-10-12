@@ -31,7 +31,7 @@ public class InputReader {
         return buf[curChar++];
     }
 
-    public int nextInt() {
+    public int integer() {
         int c = read();
         while (isSpaceChar(c)) c = read();
         int sgn = 1;
@@ -50,7 +50,7 @@ public class InputReader {
         return res * sgn;
     }
 
-    public String nextString() {
+    public String string() {
         int c = read();
         while (isSpaceChar(c)) c = read();
         StringBuilder res = new StringBuilder();
@@ -61,19 +61,19 @@ public class InputReader {
         return res.toString();
     }
 
-    public char nextChar() {
+    public char character() {
         return next().charAt(0);
     }
 
-    public BigDecimal nextBigDecimal() {
+    public BigDecimal bigDecimal() {
         return new BigDecimal(next());
     }
 
-    public BigInteger nextBigInteger() {
+    public BigInteger bigInteger() {
         return new BigInteger(next());
     }
 
-    public double nextDouble() {
+    public double doublee() {
         int c = read();
         while (isSpaceChar(c))
             c = read();
@@ -85,7 +85,7 @@ public class InputReader {
         double res = 0;
         while (!isSpaceChar(c) && c != '.') {
             if (c == 'e' || c == 'E')
-                return res * Math.pow(10, nextInt());
+                return res * Math.pow(10, integer());
             if (c < '0' || c > '9')
                 throw new InputMismatchException();
             res *= 10;
@@ -97,7 +97,7 @@ public class InputReader {
             double m = 1;
             while (!isSpaceChar(c)) {
                 if (c == 'e' || c == 'E')
-                    return res * Math.pow(10, nextInt());
+                    return res * Math.pow(10, integer());
                 if (c < '0' || c > '9')
                     throw new InputMismatchException();
                 m /= 10;
@@ -108,7 +108,7 @@ public class InputReader {
         return res * sgn;
     }
 
-    public long nextLong() {
+    public long longg() {
         int c = read();
         while (isSpaceChar(c))
             c = read();
@@ -134,50 +134,50 @@ public class InputReader {
         return c == ' ' || c == '\n' || c == '\r' || c == '\t' || c == -1;
     }
 
-    public String next() {
-        return nextString();
+    private String next() {
+        return string();
     }
 
-    public int[] nextIntArray(int size) {
+    public int[] intArray(int size) {
         int[] array = new int[size];
         for (int i = 0; i < size; i++)
-            array[i] = nextInt();
+            array[i] = integer();
         return array;
     }
 
-    public long[] nextLongArray(int size) {
+    public long[] longArray(int size) {
         long[] array = new long[size];
         for (int i = 0; i < size; i++)
-            array[i] = nextLong();
+            array[i] = longg();
         return array;
     }
 
-    public long[][] nextLongMatrix(int row, int col) {
+    public long[][] long2dArray(int row, int col) {
         long[][] array = new long[row][col];
         for (int i = 0; i < row; ++i)
             for (int j = 0; j < col; ++j)
-                array[i][j] = nextLong();
+                array[i][j] = longg();
         return array;
     }
 
-    public long[][] nextLongMatrix(int size) {
-        return nextLongMatrix(size, size);
+    public long[][] long2dArray(int size) {
+        return long2dArray(size, size);
     }
 
 
-    public int[][] nextIntMatrix(int row, int col) {
+    public int[][] int2dArray(int row, int col) {
         int[][] array = new int[row][col];
         for (int i = 0; i < row; ++i)
             for (int j = 0; j < col; ++j)
-                array[i][j] = nextInt();
+                array[i][j] = integer();
         return array;
     }
 
-    public int[][] nextIntMatrix(int size) {
-        return nextIntMatrix(size, size);
+    public int[][] int2dArray(int size) {
+        return int2dArray(size, size);
     }
 
-    public char[][] nextCharMatrix(int size) {
+    public char[][] char2dArray(int size) {
         char[][] array = new char[size][size];
         for (int i = 0; i < size; ++i)
             array[i] = next().toCharArray();
