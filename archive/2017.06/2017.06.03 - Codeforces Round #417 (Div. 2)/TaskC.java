@@ -1,6 +1,6 @@
-package com.company.code;
+package main.java.in.rauf.code;
 
-import com.company.FastIO.InputReader;
+import main.java.in.rauf.FastIO.InputReader;
 import java.io.PrintWriter;
 import java.util.Arrays;
 

@@ -18,17 +18,17 @@
 
 3 200
 1
-20 src/com/company/code
+20 src/main.java.in/rauf/code
 8 -Xmx256M
 4 Main
-22 com.company.code.TaskC
+22 main.java.in.rauf.code.TaskC
 39 net.egork.chelper.checkers.TokenChecker
 0 
 0
 10 2017.06.05
 34 Codeforces Beta Round #82 (Div. 2)
 1
-30 com.company.FastIO.InputReader
+30 main.java.in.rauf.FastIO.InputReader
 19 java.io.PrintWriter
 0
 0
