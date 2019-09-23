@@ -1,0 +1,39 @@
+{
+  "name" : "A. cAPS lOCK",
+  "testType" : "SINGLE",
+  "input" : {
+    "type" : "STANDARD",
+    "fileName" : "input.txt"
+  },
+  "output" : {
+    "type" : "STANDARD",
+    "fileName" : "output.txt"
+  },
+  "tests" : [ {
+    "input" : "cAPS\n",
+    "output" : "Caps\n",
+    "index" : 0,
+    "active" : true
+  }, {
+    "input" : "Lock\n",
+    "output" : "Lock\n",
+    "index" : 1,
+    "active" : true
+  } ],
+  "location" : "src/in/rauf/code",
+  "vmArgs" : "-Xmx256M",
+  "mainClass" : "Main",
+  "taskClass" : "in.rauf.code.ACAPSLOCK",
+  "checkerClass" : "net.egork.chelper.checkers.TokenChecker",
+  "checkerParameters" : "",
+  "testClasses" : [ ],
+  "date" : "2019.09.23",
+  "contestName" : "Codeforces Beta Round #95 (Div. 2)",
+  "truncate" : true,
+  "inputClass" : "in.rauf.fastio.InputReader",
+  "outputClass" : "java.io.PrintWriter",
+  "includeLocale" : false,
+  "failOnOverflow" : false,
+  "interactive" : false,
+  "interactor" : "net.egork.chelper.tester.Interactor"
+}

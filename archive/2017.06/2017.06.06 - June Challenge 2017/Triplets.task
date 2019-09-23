@@ -17,17 +17,17 @@
 6 5 4
 3 399
 1
-20 src/com/company/code
+20 src/main.java.in/rauf/code
 7 -Xmx64M
 4 Main
-25 com.company.code.Triplets
+25 main.java.in.rauf.code.Triplets
 39 net.egork.chelper.checkers.TokenChecker
 0 
 0
 10 2017.06.06
 19 June Challenge 2017
 1
-30 com.company.FastIO.InputReader
+30 main.java.in.rauf.FastIO.InputReader
 19 java.io.PrintWriter
 0
 0

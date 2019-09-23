@@ -36,17 +36,17 @@
 89 48 14 55 5 35 7 79 49 70 74 18 64 63 35 93 63 97 90 77 33 11 100 75 60 99 54 38 3 6 55 1 7 64 56 90 21 76 35 16 61 78 38 78 93 21 89 1 58 53 34 77 56 37 46 59 30 5 85 1 52 87 84 99 97 9 15 66 29 60 17 16 59 23 88 93 32 2 98 89 63 42 9 86 70 80
 4 3 71
 1
-20 src/com/company/code
+20 src/main.java.in/rauf/code
 8 -Xmx256M
 4 Main
-22 com.company.code.TaskC
+22 main.java.in.rauf.code.TaskC
 39 net.egork.chelper.checkers.TokenChecker
 0 
 0
 10 2017.06.03
 30 Codeforces Round #417 (Div. 2)
 1
-30 com.company.FastIO.InputReader
+30 main.java.in.rauf.FastIO.InputReader
 19 java.io.PrintWriter
 0
 0

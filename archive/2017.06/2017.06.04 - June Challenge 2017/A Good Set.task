@@ -20,17 +20,17 @@
 3 2 15 6 10
 
 1
-20 src/com/company/code
+20 src/main.java.in/rauf/code
 7 -Xmx64M
 4 Main
-25 com.company.code.AGoodSet
+25 main.java.in.rauf.code.AGoodSet
 39 net.egork.chelper.checkers.TokenChecker
 0 
 0
 10 2017.06.04
 19 June Challenge 2017
 1
-30 com.company.FastIO.InputReader
+30 main.java.in.rauf.FastIO.InputReader
 19 java.io.PrintWriter
 0
 0
